@@ -3,5 +3,5 @@
     "version": 8,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/UFG-INF-OBSAT/ota/main/millenium.bin"
+    "bin": "/UFG-INF-OBSAT/ota/main/firmware.bin"
 }
