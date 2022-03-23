@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 12,
-    "host": "raw.githubusercontent.com",
+    "host": "https://raw.githubusercontent.com",
     "port": 80,
     "bin": "/UFG-INF-OBSAT/ota/main/firmware.bin"
 }
