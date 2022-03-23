@@ -3,5 +3,5 @@
     "version": 12,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/MilleniumSAT/MilleniumSAT/main/Codigo/millenium/src/millenium.bin"
+    "bin": "/UFG-INF-OBSAT/ota/main/firmware.bin"
 }
